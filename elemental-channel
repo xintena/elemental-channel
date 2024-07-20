@@ -1,0 +1,1 @@
+FROM registry.suse.com/rancher/elemental-channel:1.3.5
